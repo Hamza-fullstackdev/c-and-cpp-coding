@@ -1,0 +1,5 @@
+﻿  QuadraticFormula.cpp
+C:\Users\hamza\Desktop\Hamza Programing\Cpp oops\Data Stucture and Algoritms\QuadraticFormula\QuadraticFormula.cpp(20,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\hamza\Desktop\Hamza Programing\Cpp oops\Data Stucture and Algoritms\QuadraticFormula\QuadraticFormula.cpp(21,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\hamza\Desktop\Hamza Programing\Cpp oops\Data Stucture and Algoritms\QuadraticFormula\QuadraticFormula.cpp(26,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  QuadraticFormula.vcxproj -> C:\Users\hamza\Desktop\Hamza Programing\Cpp oops\Data Stucture and Algoritms\QuadraticFormula\x64\Debug\QuadraticFormula.exe

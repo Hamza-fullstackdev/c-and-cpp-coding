@@ -1,0 +1,5 @@
+﻿  CGPAAssignment.cpp
+C:\Users\hamza\Desktop\Hamza Programing\Cpp oops\Data Stucture and Algoritms\CGPAAssignment\CGPAAssignment.cpp(28,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hamza\Desktop\Hamza Programing\Cpp oops\Data Stucture and Algoritms\CGPAAssignment\CGPAAssignment.cpp(44,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\hamza\Desktop\Hamza Programing\Cpp oops\Data Stucture and Algoritms\CGPAAssignment\CGPAAssignment.cpp(49,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  CGPAAssignment.vcxproj -> C:\Users\hamza\Desktop\Hamza Programing\Cpp oops\Data Stucture and Algoritms\CGPAAssignment\x64\Debug\CGPAAssignment.exe

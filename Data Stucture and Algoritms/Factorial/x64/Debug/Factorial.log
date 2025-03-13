@@ -1,0 +1,2 @@
+﻿  Factorial.cpp
+C:\Users\hamza\Desktop\Hamza Programing\Cpp oops\Data Stucture and Algoritms\Factorial\Factorial.cpp(14,2): error C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getche. See online help for details.

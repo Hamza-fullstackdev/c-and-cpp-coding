@@ -1,0 +1,3 @@
+﻿  StackProgram.cpp
+C:\Users\hamza\Desktop\Hamza Programing\Cpp oops\Data Stucture and Algoritms\StackProgram\StackProgram.cpp(23,17): warning C4305: 'return': truncation from 'int' to 'bool'
+C:\Users\hamza\Desktop\Hamza Programing\Cpp oops\Data Stucture and Algoritms\StackProgram\StackProgram.cpp(51): error C4700: uninitialized local variable 'characters' used

@@ -1,0 +1,23 @@
+
+// very important first point
+1. If we want to access the private members in derived class use function with its type "int"
+and return the variable from it.
+
+// Second point
+2. Always make sure before writing a program that which class inheritance type you 
+need to solve a problem.
+
+//Third point
+3. Always remember in class inheritance that you have to type public,private,protected after
+the new class.
+
+//fourth point
+4. In hybrid inheritance use the variable to display data, it will work for public and protected variable only
+Don't use "cout<<Function_name()" and use public and protected classes.
+
+// fifth point
+5. Virtual keyword is very important see the program "virtual_class_practice_1.cpp".
+
+// sixth point
+6. We can assign values to the constructor in inheritance from derived class to base class
+see "how_to_get_value_to_the_constructor_while_inheriting.cpp" for that purpose
